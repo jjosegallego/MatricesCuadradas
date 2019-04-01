@@ -2,7 +2,7 @@
 Programa en SCALA para determinar sub-matrices cuadradas de una matriz principal
 
 ## Funcionamiento:
- 1. Al ejecutar el programa, el usuario podrá ingresar una matriz compuesta de '1' y '0' de su preferencia por consola. <br/>
+ 1. Al ejecutar el código **commandWindow.scala**, el usuario podrá ingresar una matriz compuesta de '1' y '0' de su preferencia por consola. <br/>
   **Nota:** Se debe tener en cuenta que la matriz ingresada se ingresa por filas separadas por coma (,) sin incluir comillas
 ![image](https://drive.google.com/uc?export=view&id=1I_zBugzP85xm5RR5hCWiQVObH_kNdNe0)
  2. Una vez ingresada la matriz, el software calculará la sub-matriz cuadrada de '1' mas grande que se pueda obtener y entregará en pantalla el resultado del área de esta.
